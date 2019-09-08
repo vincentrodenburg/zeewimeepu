@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meitahxosi.nauka-programowania-na-godziny.pl/sitemap.xml
